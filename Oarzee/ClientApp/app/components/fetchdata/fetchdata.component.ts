@@ -10,10 +10,3 @@ export class FetchDataComponent {
 
     constructor() {}
 }
-
-interface WeatherForecast {
-    dateFormatted: string;
-    temperatureC: number;
-    temperatureF: number;
-    summary: string;
-}
